@@ -1,13 +1,13 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+#🄶🅄🄻🅂🄷🄰🄽
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "xxxxxxxx"))
-API_HASH = environ.get("API_HASH", "xxxxxxxxxxxxxxxxxxxx")
+API_ID = int(environ.get("API_ID", "26259762"))
+API_HASH = environ.get("API_HASH", "6f33406b8cb80f659d268fccd7329b0f")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
-OWNER = int(environ.get("OWNER", "5680454765"))
-CREDIT = "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎"
-LOG_CHANNEL = "-1002631537674" # log group me bot ko admin narur banaye full rights ke sath
+OWNER = int(environ.get("OWNER", "5504996957"))
+CREDIT = "⏤͟͟͞𝕲𝖚𝖑𝖘𝖍𝖆𝖓🐉"
+LOG_CHANNEL = "-1002423681371" # log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
